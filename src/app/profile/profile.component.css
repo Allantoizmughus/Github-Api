@@ -25,3 +25,6 @@ input{
     margin-left: 350px;
     border-radius: 5px;
 }
+card{
+    font-weight: bold;
+}
