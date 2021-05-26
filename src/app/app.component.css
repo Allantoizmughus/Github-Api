@@ -2,7 +2,7 @@
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
   border-radius: 30px;
-  background-color: rgb(84, 84, 189);
+  background-color: cyan;
   opacity: 0.9;
   margin: 10px;
 }
@@ -19,11 +19,15 @@ p {
 }
 
 body {
-  background-image: url("/src/assets/blue.jpg");
+  background-image: url("/assets/blue.jpg");
   background-position: center;
   background-attachment: fixed;
 }
 
 .container{
   opacity: 0.85;
+}
+#footer>p{
+  font-size: 20px;
+  color: red;
 }
