@@ -1,3 +1,27 @@
 .container-body {
     border-radius: 20px;
 }
+.profile{
+    text-align: center;
+    margin-top: -10px;
+}
+.viewbtn{
+    width: 300px;
+    margin-left: 430px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: green;
+}
+#repo{
+    background-color: rgb(158, 157, 157);
+    border-radius: 5px;
+}
+ .col-md-12{
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 500px;
+    margin-left: 350px;
+    border-radius: 5px;
+}
