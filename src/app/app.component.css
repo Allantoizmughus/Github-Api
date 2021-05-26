@@ -19,7 +19,7 @@ p {
 }
 
 body {
-  background-image: url("/assets/git.png");
+  background-image: url("/src/assets/blue.jpg");
   background-position: center;
   background-attachment: fixed;
 }
